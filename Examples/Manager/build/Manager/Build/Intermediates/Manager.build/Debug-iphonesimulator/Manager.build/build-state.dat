@@ -1,0 +1,372 @@
+TManager
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Info.plist Manager/Manager-Info.plist
+cProcessPCH /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch.pth Manager/Manager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/main.o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/AppDelegate.o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/CryptoCoding.o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/../../CryptoCoding/CryptoCoding.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/ConfidentialManager.o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/ConfidentialManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager normal i386
+cGenerateDSYMFile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app.dSYM /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager
+cCopyStringsFile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/en.lproj/InfoPlist.strings Manager/en.lproj/InfoPlist.strings
+cCpResource Manager/Default.png build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default.png
+cCpResource Manager/Default@2x.png build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default@2x.png
+cCpResource Manager/Default-568h@2x.png build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default-568h@2x.png
+cCopyPlistFile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Fact.plist Manager/Fact.plist
+cTouch /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050A80F950000000000228FD0
+t1353191317
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050A80F9700000000003DCEF0
+t1353191319
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050A80F9600000000000015F7
+t1353191318
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000050A80F9B000000000006E370
+t1353191323
+s451440
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050A80F9C0000000000000E8D
+t1353191324
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050A80F9F0000000000AB3D60
+t1353191327
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c0000000050A80FB20000000000001B54
+t1353191346
+s6996
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/../../CryptoCoding/CryptoCoding.h
+c0000000051031AAA0000000000000B15
+t1359157930
+s2837
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/../../CryptoCoding/CryptoCoding.m
+c0000000051031AAA0000000000002C70
+t1359157930
+s11376
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/AppDelegate.h
+c0000000051031C9D0000000000000148
+t1359158429
+s328
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/AppDelegate.m
+c0000000051031EBC0000000000000BE5
+t1359158972
+s3045
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/ConfidentialManager.h
+c0000000051031D850000000000000387
+t1359158661
+s903
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/ConfidentialManager.m
+c0000000051031C800000000000000EDE
+t1359158400
+s3806
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Fact.plist
+c0000000051031E720000000000000152
+t1359158898
+s338
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Manager-Prefix.pch
+c0000000051031B0F000000000000013D
+t1359158031
+s317
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/en.lproj/InfoPlist.strings
+c0000000051031B0F000000000000002D
+t1359158031
+s45
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/main.m
+c0000000051031B0F000000000000014A
+t1359158031
+s330
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/AppDelegate.o
+t1359158950
+s90692
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/ConfidentialManager.o
+t1359158901
+s22532
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/CryptoCoding.o
+t1359158111
+s41900
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/Manager.LinkFileList
+c0000000051031E7500000000000002C2
+t1359158901
+s706
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/main.o
+t1359158901
+s3360
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-ahdrebkqdpaxqthhwxmxxyodokut/Manager-Prefix.pch.pth
+t2
+s0
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch.pth
+t1359158110
+s4827896
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app
+t1359158950
+s340
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app.dSYM
+t1359158950
+s102
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default-568h@2x.png
+t1359158148
+s18594
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default.png
+t1359158148
+s6540
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default@2x.png
+t1359158148
+s16107
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Fact.plist
+t1359158901
+s82
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Info.plist
+t1359158110
+s883
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager
+t1359158950
+s57696
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/PkgInfo
+t1359158110
+s8
+
+N/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/en.lproj/InfoPlist.strings
+t1359158148
+s42
+
+NManager/Manager-Info.plist
+c0000000051031B0F00000000000005AA
+t1359158031
+s1450
+
+CBuild AST from /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/../../CryptoCoding/CryptoCoding.m
+r0
+
+CBuild AST from /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/AppDelegate.m
+r0
+
+CBuild AST from /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/ConfidentialManager.m
+r0
+
+CBuild AST from /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies55dce43c56b3b641^8db7e53c56b3b641^---0#1#0#--18"Check dependencies36"77C2F63C-06CB-4452-B612-C4E3C75644BD-
+
+CCompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/AppDelegate.o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380851772.914977
+e380851773.013854
+r1
+xCompileC
+xbuild/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/AppDelegate.o
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/AppDelegate.mbb5eea3c56b3b641^118c033d56b3b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/AppDelegate.m0000000000000000^4100"CompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/AppDelegate.o Manager/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-generated-files.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-own-target-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-project-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources/i386 -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources -F/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator -include /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch -MMD -MT dependencies -MF /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/AppDelegate.dia -c /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/AppDelegate.m -o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/AppDelegate.o36"1959B3F2-D2F5-4BCC-8679-71CCE24D1D1D-
+
+CCompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/ConfidentialManager.o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/ConfidentialManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380851701.587178
+e380851701.644978
+r1
+xCompileC
+xbuild/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/ConfidentialManager.o
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/ConfidentialManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/ConfidentialManager.m908796f555b3b641^bb29a5f555b3b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/ConfidentialManager.m0000000000000000^4148"CompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/ConfidentialManager.o Manager/ConfidentialManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-generated-files.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-own-target-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-project-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources/i386 -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources -F/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator -include /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch -MMD -MT dependencies -MF /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/ConfidentialManager.d --serialize-diagnostics /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/ConfidentialManager.dia -c /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/ConfidentialManager.m -o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/ConfidentialManager.o36"327B41F7-B6F4-4007-95B5-B9D6CBBFC58B-
+
+CCompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/CryptoCoding.o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/../../CryptoCoding/CryptoCoding.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380850911.001253
+e380850911.073561
+r1
+xCompileC
+xbuild/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/CryptoCoding.o
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/../../CryptoCoding/CryptoCoding.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/../../CryptoCoding/CryptoCoding.m427800df52b3b641^e0d512df52b3b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/../../CryptoCoding/CryptoCoding.m0000000000000000^4128"CompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/CryptoCoding.o ../../CryptoCoding/CryptoCoding.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-generated-files.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-own-target-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-project-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources/i386 -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources -F/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator -include /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch -MMD -MT dependencies -MF /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/CryptoCoding.d --serialize-diagnostics /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/CryptoCoding.dia -c /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/../../CryptoCoding/CryptoCoding.m -o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/CryptoCoding.o36"3CD5555B-9046-43A4-B6FB-977DA97D2656-
+
+CCompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/main.o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380851701.517976
+e380851701.563471
+r1
+xCompileC
+xbuild/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/main.o
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/main.mf4bf84f555b3b641^e23e92f555b3b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/main.m0000000000000000^4058"CompileC build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/main.o Manager/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-generated-files.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-own-target-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-project-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources/i386 -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources -F/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator -include /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch -MMD -MT dependencies -MF /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/main.dia -c /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/main.m -o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/main.o36"755E4DC5-5B83-489C-8C8F-F77FDAFCEDF7-
+
+CCopyPlistFile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Fact.plist Manager/Fact.plist
+s380851701.765801
+e380851701.768820
+r1
+xCopyPlistFile
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Fact.plist
+xManager/Fact.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection23"Copy Manager/Fact.pliste221c4f555b3b641^b3d2c4f555b3b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Fact.plist0000000000000000^559"CopyPlistFile build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Fact.plist Manager/Fact.plist    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app -- Manager/Fact.plist36"EAB58190-E0D7-4135-9447-122743C1D87B-
+
+CCopyStringsFile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/en.lproj/InfoPlist.strings Manager/en.lproj/InfoPlist.strings
+s380850948.615407
+e380850948.628515
+r1
+xCopyStringsFile
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/en.lproj/InfoPlist.strings
+xManager/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy Manager/en.lproj/InfoPlist.strings7b4a9e0453b3b641^abe7a00453b3b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/en.lproj/InfoPlist.strings0000000000000000^659"CopyStringsFile build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/en.lproj/InfoPlist.strings Manager/en.lproj/InfoPlist.strings    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/en.lproj -- Manager/en.lproj/InfoPlist.strings36"50EFA6E7-70F9-4470-98AC-4C3FD36DBDAC-
+
+CCpResource Manager/Default-568h@2x.png build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default-568h@2x.png
+s380850948.631954
+e380850948.635761
+r1
+xCpResource
+xManager/Default-568h@2x.png
+xbuild/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default-568h@2x.png59dea10453b3b641^10cba20453b3b641^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default-568h@2x.png000000000080d041^707"CpResource "Manager/Default-568h@2x.png" "build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default-568h@2x.png"    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Default-568h@2x.png" /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app36"3183DDA1-14BB-49DE-BC2D-CD570ACF1142-
+
+CCpResource Manager/Default.png build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default.png
+s380850948.618895
+e380850948.630669
+r1
+xCpResource
+xManager/Default.png
+xbuild/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default.png8b8c9e0453b3b641^ab7aa10453b3b641^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default.png000000000080d041^677"CpResource Manager/Default.png build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default.png    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Default.png /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app36"3971DD5D-FEAE-4210-B4BB-DA12706AF694-
+
+CCpResource Manager/Default@2x.png build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default@2x.png
+s380850948.630267
+e380850948.635783
+r1
+xCpResource
+xManager/Default@2x.png
+xbuild/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default@2x.png2a71a10453b3b641^5bcda20453b3b641^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default@2x.png000000000080d041^692"CpResource "Manager/Default@2x.png" "build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Default@2x.png"    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Default@2x.png" /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app36"EB1CDFAD-6D33-45EE-9B78-5E53D1512E87-
+
+CGenerateDSYMFile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app.dSYM /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager
+s380851773.092767
+e380851773.122000
+r1
+xGenerateDSYMFile
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app.dSYM
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Generating /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app.dSYM67d5173d56b3b641^643b1f3d56b3b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app.dSYM/0000000000000000^774"GenerateDSYMFile build/Manager/Build/Products/Debug-iphonesimulator/Manager.app.dSYM build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager -o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app.dSYM36"CDBD9DF3-6481-4DE4-B3B8-90E0289A12C3-
+
+CLd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager normal i386
+s380851773.031834
+e380851773.085840
+r1
+xLd
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Link /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager670a093d56b3b641^0dfb153d56b3b641^---0#0#0#--1371"Ld build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager normal i386    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator -F/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator -filelist /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Objects-normal/i386/Manager.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=4.3 -framework Security -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Manager36"7160DAFD-8071-489E-91A8-F3554E1C814E-
+
+CProcessInfoPlistFile /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Info.plist Manager/Manager-Info.plist
+s380850910.500446
+e380850910.504251
+r1
+xProcessInfoPlistFile
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Info.plist
+xManager/Manager-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process Manager/Manager-Info.plist2e3b80de52b3b641^a69a81de52b3b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Manager-Info.plist0000000000000000^776"ProcessInfoPlistFile build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Info.plist Manager/Manager-Info.plist    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Manager/Manager-Info.plist -genpkginfo /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app/Info.plist36"2A9C3FDE-76DD-404D-A9F0-629D69F8F972-
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-ahdrebkqdpaxqthhwxmxxyodokut/Manager-Prefix.pch.pth Manager/Manager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch.pth Manager/Manager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380850910.512342
+e380850910.921750
+r1
+xProcessPCH
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch.pth
+xManager/Manager-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Manager/Manager-Prefix.pche16083de52b3b641^e0f7ebde52b3b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Manager-Prefix.pch0000000000000000^3940"ProcessPCH build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch.pth Manager/Manager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-generated-files.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-own-target-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/Manager-project-headers.hmap -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources/i386 -I/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/Manager.build/Debug-iphonesimulator/Manager.build/DerivedSources -F/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch.dia -c /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/Manager/Manager-Prefix.pch -o /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch.pth -MMD -MT dependencies -MF /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Intermediates/PrecompiledHeaders/Manager-Prefix-dcsndvflyrofzkbtxdphehvxeytg/Manager-Prefix.pch.d36"C5116F46-7515-4069-B495-C1B742E3A4EE-
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Index/PrecompiledHeaders/Manager-Prefix-absavnjkmzpbjfewudovbmbyrrhf_ast/Manager-Prefix.pch.pth Manager/Manager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Index/PrecompiledHeaders/Manager-Prefix-dskstvajrqhybacovxcavyseaxug_ast/Manager-Prefix.pch.pth Manager/Manager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app
+s380851773.141135
+e380851773.149000
+r1
+xTouch
+x/Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app1e33243d56b3b641^ea25263d56b3b641^---0#0#0#--472"Touch build/Manager/Build/Products/Debug-iphonesimulator/Manager.app    cd /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yoonlee/Desktop/Yoon/CryptoCoding/Examples/Manager/build/Manager/Build/Products/Debug-iphonesimulator/Manager.app36"BABF074A-99EF-4145-A49B-68AEFD284785-
+
