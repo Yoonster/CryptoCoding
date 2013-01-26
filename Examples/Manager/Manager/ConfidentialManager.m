@@ -10,7 +10,7 @@
 #import <CommonCrypto/CommonDigest.h>
 #define kContents                           @"kMapFiles"
 #define kOutputFileName                     @"Confidential.plist"
-#define TTX_READABLE_PASSWORD               @"CRYPTO_FOR_FUN"
+#define READABLE_PASSWORD               @"CRYPTO_FOR_FUN"
 
 @interface ConfidentialManager()
 
@@ -75,7 +75,7 @@
 
 +(NSString*)CCPassword
 {
-    return [ConfidentialManager sha1:TTX_READABLE_PASSWORD];
+    return [ConfidentialManager sha1:READABLE_PASSWORD];
 }
 
 +(NSString *)documentsDirectory
