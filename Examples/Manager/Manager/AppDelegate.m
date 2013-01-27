@@ -36,6 +36,14 @@
     ConfidentialManager *confidential = [ConfidentialManager shared];
     NSLog(@"%@", [confidential.contents description]);
     
+// #ifdef RELEASE
+    NSString *path = [[NSBundle mainBundle] pathForResource:@"Fact" ofType:@"plist"];
+    NSFileManager *filemanager = [NSFileManager defaultManager];
+    if ([filemanager fileExistsAtPath:path]) {
+        [filemanager removeItemAtPath:path error:nil];
+    }
+// #endif
+    
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];

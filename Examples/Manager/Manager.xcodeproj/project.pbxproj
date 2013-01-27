@@ -279,6 +279,7 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Manager/Manager-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = RELEASE;
 				INFOPLIST_FILE = "Manager/Manager-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -305,6 +306,7 @@
 				DE2878C016B3528F006EA27E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
